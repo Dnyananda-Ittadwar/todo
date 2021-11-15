@@ -1,4 +1,4 @@
-# Starter Todo Projet
+# Starter Todo Project
 ## Motivation
 Small project to get used to Git & GitHub
 ## Stack
