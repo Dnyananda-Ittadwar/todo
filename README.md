@@ -1,1 +1,5 @@
-# This is the readme file for starter todo project. Update this file with the description of project and the technologies used in it.
+# Starter Todo Projet
+## Motivation
+Small project to get used to Git & GitHub
+## Stack
+HTML, CSS, JS, React JS, Express, SQL
